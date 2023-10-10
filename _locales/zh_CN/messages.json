@@ -1,0 +1,15 @@
+﻿{
+  "extensionName": {
+    "message": "复制链接名称",
+    "description": "复制链接名称"
+  },
+
+  "extensionDescription": {
+    "message": "将链接名称(文本)复制到剪贴板",
+    "description": "将链接名称(文本)复制到剪贴板"
+  },
+  "contextMenuItemOnLink": {
+    "message": "复制链接名称",
+    "description": "复制链接名称"
+  }
+}
